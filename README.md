@@ -1,2 +1,3 @@
 # WTFFFFF
-For myself 
+
+The first try on GitHub Website
